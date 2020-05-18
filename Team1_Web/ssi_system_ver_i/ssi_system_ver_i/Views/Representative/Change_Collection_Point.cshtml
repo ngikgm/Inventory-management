@@ -1,0 +1,52 @@
+﻿@model ssi_system_ver_i.Models.orders
+@using ssi_system_ver_i.Models
+
+@{
+    ViewBag.Title = "Change_Collection_Point";
+}
+
+
+<div class="row" style="padding-top:70px;">
+    <div class="col-sm-3 col-xs-3 col-lg-3 col-md-3">
+        @{
+            Html.RenderPartial("_Layout_Representative_LeftPanel");
+
+
+        }
+    </div>
+
+    <div class="col-sm-7 col-xs-7 col-lg-7 col-md-7">
+
+
+        <div class="row">
+            @using (Html.BeginForm("Change_Col_Point", "Representative", FormMethod.Post))
+            {
+                <table class="table-responsive" style="width:100%;">
+                    <tr>
+                        <th>
+                            <h3> Change Collection Point   :</h3>
+
+                            <select id="collection_point_list_id" name="collection_point_list">
+
+                                <option value="Stationery Store">Stationery Store</option>
+                                <option value="Managament School">Managament School</option>
+                                <option value="Medical School">Medical School</option>
+                                <option value="Engineering School">Engineering School</option>
+                                <option value="Science School">Science School</option>
+                                <option value="University Hospital">University Hospital</option>
+
+                            </select>
+
+                        </th>
+                    </tr>
+                    <tr>
+                        <td>
+                            <button class="btn-danger" type="submit" id="Change_Collection_Point_button_id">Submit</button>
+                        </td>
+                    </tr>
+                </table>
+            }
+        </div>
+    </div>
+</div>
+

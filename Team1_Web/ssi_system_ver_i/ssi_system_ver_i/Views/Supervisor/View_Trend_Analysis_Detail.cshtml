@@ -1,0 +1,335 @@
+﻿@using ssi_system_ver_i.Models;
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+@{
+    ViewBag.Title = "TrendReport";
+    string[] months = ViewBag.months;
+    int[] cons = ViewBag.cons;
+    item item = ViewBag.item;
+    items_warehouse itw = ViewBag.itemwarehouse;
+    int[] sbalance = ViewBag.sbalance;
+    int[] prediction = ViewBag.prediction;
+    List<department> departlist = ViewBag.departList;
+    department dep = ViewBag.depart;
+
+}
+
+<div class="row" style="padding-top:70px;">
+    <div class="col-sm-3 col-xs-3 col-lg-3 col-md-3">
+        @{
+            Html.RenderPartial("_Layout_Supervisor_LeftPanel");
+
+            List<adjustment_voucher> adjust_lis = (List<adjustment_voucher>)ViewBag.Adjust_List;
+            List<item> item_lis = (List<item>)ViewBag.Item_List;
+            Boolean flag = false;
+        }
+    </div>
+
+    <div class="w3-main" style="margin-left:250px">
+        <div class="row">
+            <div class="col-sm-4">
+
+                <h4>
+                    Item Info for @{if (dep != null)
+                        {
+                            <b>@dep.department_name</b>}
+                        else
+                        { <b>All departments.</b>} }
+                </h4>
+            </div>
+            <div class="col-sm-4">
+
+                <h5>Department Filter</h5>
+
+                <select id="depfilter" onChange="DepartmentFilter();">
+                    <option value="-1">--</option>
+                    <option value="0">All Department</option>
+                    @{
+                        for (int j = 0; j < departlist.Count; j++)
+                        {
+                            <option value="@departlist[j].departmentId">@departlist[j].department_name</option>
+                        }
+                    }
+                </select>
+            </div>
+            <div class="col-sm-4">
+
+            </div>
+        </div>
+            <input type="text" id="itemId" value="@item.itemId" hidden>
+
+            <table class="w3-table w3-striped">
+                <tr><th>Category</th><th>Item Code</th><th>Item Decription</th><th>Item UOM</th><th>ReOrder Level</th><th>ReOrder Quant</th></tr>
+                <tr><td height="20">@item.category</td><td>@item.item_code</td><td>@item.item_description</td><td>@item.unit_price</td><td><input type="text" size="6" id="reorderlevelBox" value="@itw.reorder_level"><input type="button" value="Update ReorderLevel" onclick="UpdateReorderLevel(@item.itemId);" /></td><td><input type="text" size="6" id="reorderquantBox" value="@itw.reorder_quantity"><input type="button" value="Update ReOrder Quantity" onclick="UpdateReorderQuant(@item.itemId);" /></td></tr>
+                <tr><th></th><th></th><th></th><th>Average Stock Balance</th><th>Average Monthly Consumption</th><th>LSTM Neurol Network Prediction</th></tr>
+
+                <tr><td></td><td></td><td></td><td>@String.Format("{0:0.##}", sbalance.Average())</td><td>@String.Format("{0:0.##}", cons.Average())</td><td>@prediction[1],@prediction[2],@prediction[3]</td></tr>
+
+            </table>
+
+            <h4>Consuming TrendReport</h4>
+            <table class="w3-table w3-striped">
+                <tr>
+                    <td>Month</td>
+                    @{ for (int i = 0; i < months.Length; i++)
+                        {
+                            <td><span id="months @i">@months[i]</span></td>
+                        }
+                    }
+                </tr>
+                <tr>
+                    <td>Comsumed Quant</td>
+                    @{ for (int i = 0; i < cons.Length; i++)
+                        {
+                            <td><span id="cons @i">@cons[i]</span></td>
+                        }
+                    }
+                </tr>
+                <tr>
+                    <td>Stock Balance</td>
+                    @{ for (int i = 0; i < sbalance.Length; i++)
+                        {
+                            <td><span id="sbalance @i">@sbalance[i]</span></td>
+                        }
+                    }
+                </tr>
+            </table>
+
+
+
+
+            <br>
+            <br>
+
+            <!-- Styles -->
+            <style>
+                #chartdiv {
+                    width: 100%;
+                    height: 300px;
+                }
+            </style>
+
+            <!-- Resources -->
+            <script src="https://www.amcharts.com/lib/4/core.js"></script>
+            <script src="https://www.amcharts.com/lib/4/charts.js"></script>
+            <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
+
+            <!-- Chart code -->
+            <script>
+                am4core.ready(function () {
+
+                    // Themes begin
+                    am4core.useTheme(am4themes_animated);
+                    // Themes end
+
+                    // Create chart instance
+                    var chart = am4core.create("chartdiv", am4charts.XYChart);
+                    chart.scrollbarX = new am4core.Scrollbar();
+
+                    // Add data
+                    for (x = 0; x < 12; x++) {
+
+                        var m = document.getElementById("months " + x).innerHTML
+
+                        var c = parseInt(document.getElementById("cons " + x).innerHTML)
+
+                        var s = parseInt(document.getElementById("sbalance " + x).innerHTML)
+                        var obj = { "date": m, "cons": c, "stockbalance": s };
+                        chart.data.push(obj);
+
+
+                    }
+
+
+
+                    // Create axes
+                    var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+                    categoryAxis.dataFields.category = "date";
+                    categoryAxis.renderer.grid.template.location = 0;
+                    categoryAxis.renderer.minGridDistance = 60;
+                    categoryAxis.tooltip.disabled = true;
+
+                    var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+                    valueAxis.renderer.minWidth = 50;
+                    valueAxis.min = 0;
+                    valueAxis.cursorTooltipEnabled = false;
+
+                    // Create series
+                    var series = chart.series.push(new am4charts.ColumnSeries());
+                    series.sequencedInterpolation = true;
+                    series.dataFields.valueY = "cons";
+                    series.dataFields.categoryX = "date";
+                    series.tooltipText = "[{categoryX}: bold]{valueY}[/]";
+                    series.columns.template.strokeWidth = 0;
+
+                    series.tooltip.pointerOrientation = "vertical";
+
+                    series.columns.template.column.cornerRadiusTopLeft = 10;
+                    series.columns.template.column.cornerRadiusTopRight = 10;
+                    series.columns.template.column.fillOpacity = 0.8;
+
+                    // on hover, make corner radiuses bigger
+                    var hoverState = series.columns.template.column.states.create("hover");
+                    hoverState.properties.cornerRadiusTopLeft = 0;
+                    hoverState.properties.cornerRadiusTopRight = 0;
+                    hoverState.properties.fillOpacity = 1;
+
+                    series.columns.template.adapter.add("fill", function (fill, target) {
+                        return chart.colors.getIndex(target.dataItem.index);
+                    })
+
+
+                    var paretoValueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+                    paretoValueAxis.renderer.opposite = true;
+                    paretoValueAxis.min = 0;
+
+                    paretoValueAxis.strictMinMax = true;
+                    paretoValueAxis.renderer.grid.template.disabled = true;
+                    paretoValueAxis.numberFormatter = new am4core.NumberFormatter();
+                    paretoValueAxis.numberFormatter.numberFormat = "#"
+                    paretoValueAxis.cursorTooltipEnabled = false;
+
+                    var paretoSeries = chart.series.push(new am4charts.LineSeries())
+                    paretoSeries.dataFields.valueY = "stockbalance";
+                    paretoSeries.dataFields.categoryX = "date";
+                    paretoSeries.yAxis = paretoValueAxis;
+                    paretoSeries.tooltipText = "stockbalance: {valueY.formatNumber('#')}[/]";
+                    paretoSeries.bullets.push(new am4charts.CircleBullet());
+                    paretoSeries.strokeWidth = 2;
+                    paretoSeries.stroke = new am4core.InterfaceColorSet().getFor("alternativeBackground");
+                    paretoSeries.strokeOpacity = 0.5;
+
+                    // Cursor
+                    chart.cursor = new am4charts.XYCursor();
+                    chart.cursor.behavior = "panX";
+
+                }); // end am4core.ready()
+
+
+
+                function UpdateReorderLevel(item_id) {
+
+
+
+
+                    var q = document.getElementById("reorderlevelBox").value
+
+                    var pdata = { itemId: item_id, newreorderlevel: q };
+
+                    $.ajax({
+                        type: "POST",
+                        url: "/Supervisor/UpdateReOrderLevel",
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(pdata),
+                        dataType: "json",
+
+                        // Response Success
+                        success: function (response) {
+
+                            alert("Updated Item ReOrder Level successfully");
+                            document.getElementById("reorderlevelBox").innerHTML = response.newlevel;
+
+                        },
+
+                        // Response Fail
+                        failure: function (response) {
+                            alert("Fail Case");
+                        },
+
+                        // Response Error
+                        error: function (response) {
+                            alert("ERROR case");
+                        }
+
+
+                    });
+                }
+
+
+                function UpdateReorderQuant(item_id) {
+
+
+
+
+                    var q = document.getElementById("reorderquantBox").value
+
+                    var pdata = { itemId: item_id, newreorderquant: q };
+
+                    $.ajax({
+                        type: "POST",
+                        url: "/Supervisor/UpdateReOrderQuant",
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(pdata),
+                        dataType: "json",
+
+                        // Response Success
+                        success: function (response) {
+
+                            alert("Updated Item ReOrder Quant successfully");
+                            document.getElementById("reorderquantBox").innerHTML = response.newquant;
+
+                        },
+
+                        // Response Fail
+                        failure: function (response) {
+                            alert("Fail Case");
+                        },
+
+                        // Response Error
+                        error: function (response) {
+                            alert("ERROR case");
+                        }
+
+
+                    });
+                }
+            </script>
+
+            <!-- HTML -->
+            <div id="chartdiv"></div>
+        </div>
+</div>
+
+
+
+<script>
+
+    function doPOST(data) {
+        var ajax = new XMLHttpRequest();
+
+
+        ajax.onreadystatechange = function () {
+            if (ajax.readyState == 4) {
+                document.open();
+                document.write(ajax.response);
+                document.close();
+            }
+        }
+        ajax.open("POST", "/Supervisor/View_Trend_Analysis_Detail", true);
+        ajax.setRequestHeader("Content-type", "application/json;charset=UTF-8");
+
+        ajax.send(JSON.stringify(data));
+    }
+
+
+
+
+    function DepartmentFilter() {
+
+        var e = document.getElementById("depfilter");
+        var eId = e.options[e.selectedIndex].value;
+
+        var iId = document.getElementById('itemId').value;
+        var data = { itemId:iId, depId: eId };
+
+
+
+        doPOST(data);
+
+    }
+</script>
+
+
+
+
+

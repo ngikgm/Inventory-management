@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DeptManagerHomeActivity"
+    android:background="@drawable/background"   >
+
+
+    <LinearLayout
+
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <fragment
+            android:id="@+id/header"
+            android:name="com.example.adprojectteam1.HeaderFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/DelegateEmployeeListBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DelegateEmployeeList" />
+
+        <Button
+            android:id="@+id/CancelDelegateEmployeeBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CancelDelegateEmployee" />
+
+        <Button
+            android:id="@+id/ApproveRequestBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ApproveRequest" />
+
+
+
+
+    </LinearLayout>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

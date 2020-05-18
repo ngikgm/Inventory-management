@@ -1,0 +1,1393 @@
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll.config
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.pdb
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe.config
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.rsp
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe.config
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.rsp
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.AppContext.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Console.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Compression.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Claims.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.ValueTuple.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe.config
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.rsp
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\WebGrease.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.xml
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.xml
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.xml
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.xml
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.xml
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.xml
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.xml
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.pdb
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csprojAssemblyReference.cache
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csproj.CoreCompileInputs.cache
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csproj.CopyComplete
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.pdb
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.dll
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.xml
+C:\Users\pluto\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll.config
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.pdb
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe.config
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.rsp
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe.config
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.rsp
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.AppContext.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Console.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Compression.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Claims.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.ValueTuple.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe.config
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.rsp
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\WebGrease.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.pdb
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csprojAssemblyReference.cache
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csproj.CoreCompileInputs.cache
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csproj.CopyComplete
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.pdb
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.ComponentModel.Annotations.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Thant Htet Myet\Documents\Workspace\.NET Framework\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.rsp
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.rsp
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.AppContext.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Console.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Claims.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.rsp
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.ComponentModel.Annotations.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\WebGrease.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csprojAssemblyReference.cache
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csproj.CopyComplete
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project (5)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll.config
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.pdb
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe.config
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.rsp
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe.config
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.rsp
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.AppContext.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Collections.Immutable.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Console.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Compression.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.AccessControl.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Claims.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.ValueTuple.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe.config
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.rsp
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe.config
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Web.Infrastructure.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.ComponentModel.Annotations.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\WebGrease.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.pdb
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.pdb
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csprojAssemblyReference.cache
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csproj.CoreCompileInputs.cache
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csproj.CopyComplete
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.dll
+D:\Sh\AD_Project (6)\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.pdb
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll.config
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.pdb
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe.config
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.rsp
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe.config
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.rsp
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.AppContext.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Console.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Compression.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Claims.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.ValueTuple.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe.config
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.rsp
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.ComponentModel.Annotations.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\WebGrease.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.pdb
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.pdb
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csprojAssemblyReference.cache
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csproj.CoreCompileInputs.cache
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csproj.CopyComplete
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.dll
+C:\Users\ngikg\Desktop\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.pdb
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll.config
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.pdb
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe.config
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.rsp
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe.config
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.rsp
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.AppContext.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Collections.Immutable.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Console.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Compression.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Reflection.Metadata.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.AccessControl.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Claims.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.ValueTuple.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe.config
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.rsp
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe.config
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Web.Infrastructure.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.ComponentModel.Annotations.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\WebGrease.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.pdb
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.pdb
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csprojAssemblyReference.cache
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csproj.CoreCompileInputs.cache
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csproj.CopyComplete
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.dll
+D:\ming\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.rsp
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.rsp
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.AppContext.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Console.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Claims.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.rsp
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.ComponentModel.Annotations.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\WebGrease.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csprojAssemblyReference.cache
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csproj.CopyComplete
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project new\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.rsp
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.rsp
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.AppContext.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Console.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Claims.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.rsp
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.ComponentModel.Annotations.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\WebGrease.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csprojAssemblyReference.cache
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csproj.CopyComplete
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.rsp
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.rsp
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.AppContext.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Console.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Claims.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.rsp
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.ComponentModel.Annotations.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\WebGrease.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csprojAssemblyReference.cache
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csproj.CopyComplete
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - x\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.rsp
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.rsp
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.AppContext.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Console.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Claims.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.rsp
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.ComponentModel.Annotations.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\WebGrease.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.pdb
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csprojAssemblyReference.cache
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csproj.CopyComplete
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.dll
+C:\Users\Shawn Wang\Documents\SA learnig package\ADproject\AD_Project final - xxx\AD_Project\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.pdb
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll.config
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\ssi_system_ver_i.pdb
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.exe.config
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csc.rsp
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.exe.config
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\csi.rsp
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.AppContext.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Console.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Compression.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Claims.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.ValueTuple.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.exe.config
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\vbc.rsp
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.ComponentModel.Annotations.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\WebGrease.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\EntityFramework.SqlServer.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.pdb
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\FluentScheduler.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Options.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\PagedList.Mvc.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Buffers.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Collections.Immutable.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Memory.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Numerics.Vectors.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Helpers.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Mvc.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Optimization.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.Razor.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\System.Web.WebPages.Razor.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Newtonsoft.Json.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Antlr3.Runtime.pdb
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csprojAssemblyReference.cache
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csproj.CoreCompileInputs.cache
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.csproj.CopyComplete
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.dll
+C:\Users\ngikg\Desktop\AD project\AD Project SA 49 - Team 1-finalx\Team1_Web\ssi_system_ver_i\ssi_system_ver_i\obj\Debug\ssi_system_ver_i.pdb

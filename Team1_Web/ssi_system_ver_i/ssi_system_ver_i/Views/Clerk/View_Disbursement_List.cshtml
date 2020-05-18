@@ -1,0 +1,201 @@
+﻿@model ssi_system_ver_i.Models.orders
+@using ssi_system_ver_i.Models
+
+@{
+    ViewBag.Title = "View_Disbursement_List";
+}
+
+
+<div class="row" style="padding-top:70px;">
+    <div class="col-sm-3 col-xs-3 col-lg-3 col-md-3">
+        @{
+            Html.RenderPartial("_Layout_Clerk_LeftPanel");
+
+            department dept = ViewBag.dept_obj;
+            List<string> dept_list = (List<string>)ViewBag.dept_list;
+            List<orders> order_list = (List<orders>)ViewBag.order_list;
+        }
+    </div>
+
+
+    <div class="col-sm-7 col-xs-7 col-lg-7 col-md-7">
+     
+        <div class="row" style="float:right;">
+            <h5>
+                <i>
+                    Select Department:
+                </i>
+            </h5>
+
+            <select id="dept_list_id" name="dept_list" onchange="Change_Dept()">
+                @foreach (string dept_name in dept_list)
+                {
+                    <option value="@dept_name">@dept_name</option>
+                }
+
+
+            </select>
+        </div>
+        <div class="row">
+            <table class="table" id="disbursement_list_table">
+                <tr>
+                    <th>
+                        Item Name
+                    </th>
+                    <th>
+                        Delivered Quantity
+                    </th>
+                    <th>
+                        Acknowledged Quantity
+                    </th>
+                    <th>
+                        Delivered Date
+                    </th>
+                    
+                </tr>
+                @for (int i = 0; i < order_list.Count; i++)
+                {
+                    orders temp_order = order_list[i];
+
+                    <tr id="disbursement_row_id_@i">
+                        <td>
+                            @temp_order.item_obj.item_description
+                        </td>
+                        <td>
+                            @temp_order.actual_delivered_quantity_by_clerk
+                        </td>
+                        <td>
+                            @temp_order.actual_received_quantity_by_representative
+                        </td>
+                        <td>
+                            @temp_order.delivered_order_date
+                        </td>
+                    </tr>
+
+                }
+            </table>
+        </div>
+    </div>
+
+</div>
+
+
+<script type="text/javascript">
+    function Change_Dept() {
+        var select_bx = document.getElementById('dept_list_id');
+       
+        var ajax_obj = {
+            name:select_bx.value,
+            main_data: ["hello"],
+        };
+
+        // Send JSON data to server's controller-action-method
+        $.ajax({
+            type: "POST",
+            url: "/Clerk/Ajax_Disbursement_List",
+            contentType: "application/json; charset=utf-8",
+            data: JSON.stringify(ajax_obj),
+            dataType: "json",
+
+            // Response Success
+            success: function (response) {
+                var item_name = JSON.stringify(response.key_item_name);
+                var ack_qty = JSON.stringify(response.key_ack_qty);
+                var del_qty = JSON.stringify(response.key_del_qty);
+                var del_date = JSON.stringify(response.key_del_date);
+
+                var item_name_list = item_name.split('_');
+                var ack_qty_list = ack_qty.split('_');
+                var del_qty_list = del_qty.split('_');
+                var del_date = del_date.split('_');
+
+
+
+                var desb_tb = document.getElementById('disbursement_list_table');
+                var tb_length = desb_tb.rows.length;
+                var i;
+
+                // REMOVE ROWS
+                for (i = 0; i < tb_length-1; i++) {
+                
+                    document.getElementById('disbursement_row_id_'+i).remove();
+                }
+
+             
+                for (i = 0; i < item_name_list.length; i++)
+                {
+         
+                    var temp_item_name = item_name_list[i];
+
+                    var temp_ack_qty = ack_qty_list[i];
+                    var temp_del_qty = del_qty_list[i];
+                    var temp_del_date = del_date[i];
+
+                    temp_item_name = temp_item_name.replace('"', '');
+                    temp_item_name = temp_item_name.replace('"', '');
+                    temp_item_name = temp_item_name.replace('\\', '');
+
+                    temp_ack_qty = temp_ack_qty.replace('"', '');
+                    temp_ack_qty = temp_ack_qty.replace('"', '');
+
+                    temp_del_qty = temp_del_qty.replace('"', '');
+                    temp_del_qty = temp_del_qty.replace('"', '');
+
+                    temp_del_date = temp_del_date.replace('"', '');
+                    temp_del_date = temp_del_date.replace('"', '');
+
+                    var table_row_count = desb_tb.rows.length;
+
+                    // Create New Row
+                    var row = desb_tb.insertRow(table_row_count);
+                    row.id = "disbursement_row_id_" + i;
+
+                    // Table Row Count
+                    var table_row_count = desb_tb.rows.length;
+
+                    var cell1 = row.insertCell(0);
+                    var item_name = document.createElement("label");
+                    item_name.innerHTML = temp_item_name;
+                    item_name.style.fontWeight = 'normal';
+                    item_name.value = temp_item_name;
+                    cell1.appendChild(item_name);
+
+                    var cell2 = row.insertCell(1);
+                    var amount_item_desc = document.createElement("label");
+                    amount_item_desc.innerHTML = temp_del_qty;
+                    amount_item_desc.style.fontWeight = 'normal';
+                    amount_item_desc.value = temp_item_name;
+                    cell2.appendChild(amount_item_desc);
+
+                    var cell3 = row.insertCell(2);
+                    var amount_item_desc = document.createElement("label");
+                    amount_item_desc.innerHTML = temp_ack_qty;
+                    amount_item_desc.style.fontWeight = 'normal';
+                    amount_item_desc.value = temp_item_name;
+                    cell3.appendChild(amount_item_desc);
+
+                    var cell4 = row.insertCell(3);
+                    var amount_item_desc = document.createElement("label");
+                    amount_item_desc.innerHTML = temp_del_date;
+                    amount_item_desc.style.fontWeight = 'normal';
+                    amount_item_desc.value = temp_item_name;
+                    cell4.appendChild(amount_item_desc);
+
+
+                }
+             
+            },
+            // Response Fail
+            failure: function (response) {
+                alert("Fail Case");
+            },
+
+            // Response Error
+            error: function (response) {
+                alert("ERROR case");
+            }
+        });
+    }
+
+
+</script>

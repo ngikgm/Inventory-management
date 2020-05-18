@@ -1,0 +1,174 @@
+﻿@using ssi_system_ver_i.Models;
+@using ssi_system_ver_i.DAL;
+@using PagedList.Mvc;
+@using PagedList;
+<script>
+    window.onload = function () { searchEnter() };
+</script>
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+@{
+    ViewBag.Title = "TrendReportList";
+    Dictionary<int, Dictionary<string, int>> trendlist = ViewBag.trendlist;
+    List<string> mlist = ViewBag.monthslist;
+    string searchStr = (string)ViewData["searchStr"];
+    bool match = (bool)ViewData["match"];
+    PagedList<item> listItem = ViewBag.listitem;
+    List<department> departlist = ViewBag.departList;
+    department dep=ViewBag.depart;
+}
+
+<div class="row" style="padding-top:70px;">
+    <div class="col-sm-3 col-xs-3 col-lg-3 col-md-3">
+        @{
+            Html.RenderPartial("_Layout_Supervisor_LeftPanel");
+
+            List<adjustment_voucher> adjust_lis = (List<adjustment_voucher>)ViewBag.Adjust_List;
+            List<item> item_lis = (List<item>)ViewBag.Item_List;
+            
+
+        }
+    </div>
+
+    <div class="w3-main" style="margin-left:250px">
+        <h2>Item Consumption Trend Report</h2>
+
+
+        <br>
+        <form action="javascript:searchClick()" class="navbar-brand" style="padding-top:7px;" method="post">
+            <table>
+                <tr>
+                    <td>
+
+                        <input type="text" class="form-control" placeholder="Search.." size="20" id="searchBox" value="@searchStr">
+                    </td>
+                    <td>
+                        <button type="submit" class="btn btn-info" style="background-color:darkslategrey;border:none;">
+                            <span class="glyphicon glyphicon-search"></span>
+                        </button>
+                    </td>
+                    <td>Department Filter</td>
+                    <td>
+                        <select id="depfilter" onChange="DepartmentFilter();">
+                            <option value="-1">--</option>
+                            <option value="0">All Department</option>
+                            @{
+                                for (int j = 0; j < departlist.Count; j++)
+                                {
+                                    <option value="@departlist[j].departmentId">@departlist[j].department_name</option>
+                                }
+                            }
+                        </select>
+                    </td>
+
+                </tr>
+            </table>
+        </form>
+
+        @{if (dep != null) {
+                <h5>Sub Report For <b>@dep.department_name</b></h5>}
+                else
+                { <h3>Overall Report For all departments.</h3>} }
+        
+        
+
+
+        <table class="w3-table w3-striped">
+            <tr>
+                <th>Item Des</th>
+                @{ foreach (string m in mlist)
+                    {
+                        <th>@m</th>
+                    } }
+            </tr>
+
+            @{ foreach (int i in trendlist.Keys)
+                {
+                    <tr>
+                        <td>@ItemData.GetItemById(i).item_description</td>
+                        @{ foreach (string m in mlist)
+                            {
+                                <td>@trendlist[i][m]</td>
+                            }
+                        }
+                        <td><input type="button" value="More Info" onclick="location.href='@Url.Action("View_Trend_Analysis_Detail", "Supervisor",new { itemId=i})'" /></td>
+                    </tr>
+                }
+
+            }
+
+
+        </table>
+
+        @Html.PagedListPager(listItem, page => Url.Action("View_Trend_Analysis", new { page, searchStr = searchStr }), new PagedListRenderOptions() { LiElementClasses = new List<string> { "breadcrumb-item" }, UlElementClasses = new List<string> { "breadcrumb" } })
+
+
+
+
+
+        <br>
+        <br>
+    </H5>
+</div>
+
+
+<script>
+
+    function searchEnter() {
+        var searchBox = document.getElementById("searchBox");
+        searchBox.addEventListener("keypress", function (e) {
+            var key = e.which || e.keyCode;
+            if (key === 13) {
+                var data = { searchStr: searchBox.value };  /*Here we pass the Viariable name "searchStr" and its value to dictionary 'data'*/
+                doPOST(data);           /*Here we post 'data' to method, if the method has a parameter with same name of "searchStr", it passes to controller.*/
+            }
+        });
+    }
+
+    function searchClick() {
+        var searchBox = document.getElementById("searchBox");
+        var data = { searchStr: searchBox.value };  /*Here we pass the Viariable name "searchStr" and its value to dictionary 'data'*/
+
+        doPOST(data);
+    }
+
+    function doPOST(data) {
+        var ajax = new XMLHttpRequest();
+      
+
+        ajax.onreadystatechange = function () {
+            if (ajax.readyState == 4) {
+                document.open();
+                document.write(ajax.response);
+                document.close();
+            }
+        }
+        ajax.open("POST", "/Supervisor/View_Trend_Analysis", true);
+        ajax.setRequestHeader("Content-type", "application/json;charset=UTF-8");
+
+        ajax.send(JSON.stringify(data));
+    }
+
+
+
+    
+    function DepartmentFilter() {
+
+        var e = document.getElementById("depfilter");
+        var eId = e.options[e.selectedIndex].value;
+        var searchBox = document.getElementById("searchBox");
+        var data = { searchStr: searchBox.value, depId: eId };
+        
+        
+
+        doPOST(data);
+
+    }
+</script>
+
+
+
+
+
+

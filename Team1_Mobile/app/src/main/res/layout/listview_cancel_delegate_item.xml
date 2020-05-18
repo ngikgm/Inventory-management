@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+
+    <TextView
+        android:id="@+id/CancelDelegateStaffNameItem"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:background="@color/White"
+        android:text="CancelDelegateStaffNameItem" />
+
+    <TextView
+        android:id="@+id/DutyStartDateItem"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:background="@color/White"
+        android:text="DutyStartDateItem" />
+    <TextView
+        android:id="@+id/DutyEndDateItem"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:background="@color/White"
+        android:text="DutyEndDateItem" />
+
+    <Button
+        android:id="@+id/CancelDelegateItem"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#DB1930"
+        android:gravity="center"
+        android:onClick="CancelDelegate"
+        android:text="Cancel" />
+</LinearLayout>
